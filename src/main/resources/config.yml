@@ -1,0 +1,10 @@
+
+# This plugin is based on the MiniMessage API, means that colors are displayed by using "<color>" or "<rgbcolor>".
+# Even decorations can be displayed through MiniMessage.
+# You can find more here: https://docs.advntr.dev/minimessage/format.html
+
+Ping:
+  # In these messages, <Player> is a variable that will be replaced with the player's name and <ping> is a variable that will be replaced with the player's ping.
+  Actionbar: "<gray>Their Ping: <green><ping>"
+Reload:
+  Message: "<green>The config has been reloaded"

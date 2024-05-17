@@ -1,0 +1,5 @@
+name: StrayPingDisplay
+version: '${version}'
+main: club.revived.StrayPingDisplay
+api-version: '1.20'
+author: yyuh
