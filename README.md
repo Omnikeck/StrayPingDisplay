@@ -5,8 +5,6 @@
 StrayPingDisplay is a quick ripoff of a feature that stray.gg has.
 
 **Features:**
-
-- **Customizable Discord Invite Link:** Server owners can easily configure the Discord invite link to their community server.
   
 - **Flexible Message Format:** Customize the message format that players receive when checking the ping of someone
 
