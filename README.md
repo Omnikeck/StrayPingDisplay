@@ -1,4 +1,4 @@
-# MessageCore
+# StrayPingDisplay
 
 **Overview:**
 
